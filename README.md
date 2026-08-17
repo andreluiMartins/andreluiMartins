@@ -6,7 +6,7 @@
 
 
 **Competências:**
-- **Desenvolvimento Web:** HTML, CSS, JavaScript.
+- **Desenvolvimento Web:** HTML, CSS.
 - **Backend:** Java e Python.
 - **Banco de Dados:** MySQL.
 - **Ferramentas:** Git, GitHub.
